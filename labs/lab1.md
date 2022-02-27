@@ -10,8 +10,8 @@
 
 ## Инициализация рабочего окружения
 
-1. Склонировать данный репозиторий на рабочую машину.
-2. C [GoogleDrive](https://drive.google.com/drive/folders/11Un7NdYCC9477M2AzEHRNpQJfAaA7CeM?usp=sharing) скачать box. 
+1. Скачать [Vagrantfile](files/Vagrantfile).
+2. Cкачать [box](https://drive.google.com/drive/folders/11Un7NdYCC9477M2AzEHRNpQJfAaA7CeM?usp=sharing) с UbuntuServer 20.04. 
 3. На [сайте](https://www.virtualbox.org/wiki/Downloads) скачать последнюю версию гипервизора VirtualBox для своей операционной системы.
 4. На [сайте](https://www.vagrantup.com/) скачать последнюю версию ПО для управления виртуализацией vagrant.
 5. Запустить консоль (CLI) и перейти в локальный репозиторий.
